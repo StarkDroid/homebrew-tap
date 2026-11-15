@@ -5,7 +5,6 @@
 class Bento < Formula
   desc "Full-screen terminal workspace for one project"
   homepage "https://starkdroid.github.io/Bento-Terminal/"
-  version "0.5.0"
   license "MIT"
 
   on_macos do
