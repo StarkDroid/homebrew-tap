@@ -9,25 +9,25 @@ class Bento < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/StarkDroid/Bento-Terminal/releases/download/v0.7.0/bento_darwin_arm64"
-      sha256 "aa93412166dfdd2bfde765a98c830634cf71313929417fa5a2f73c87848b7490"
+      url "https://github.com/StarkDroid/Bento-Terminal/releases/download/v0.8.0/bento_darwin_arm64"
+      sha256 "904266fcfc3721037c87f88c518c18056b28d16489c96b89d445e000ca194086"
     end
 
     on_intel do
-      url "https://github.com/StarkDroid/Bento-Terminal/releases/download/v0.7.0/bento_darwin_amd64"
-      sha256 "42f47b3c4ed2d6e9b13903a36fe5e1cfb5610f179cabd3d805d3fd5ca6188361"
+      url "https://github.com/StarkDroid/Bento-Terminal/releases/download/v0.8.0/bento_darwin_amd64"
+      sha256 "9c707c69174f648a4625050103396d6277b4f1af93f382fc1bedc46389514578"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/StarkDroid/Bento-Terminal/releases/download/v0.7.0/bento_linux_arm64"
-      sha256 "27db28908f86f5838dd0bc0535f272ee2340b5d3d9162a89d92cfb9d86533c75"
+      url "https://github.com/StarkDroid/Bento-Terminal/releases/download/v0.8.0/bento_linux_arm64"
+      sha256 "097f34799a86895ce788a3d11fab6a04f89109776ff45f21d3a1df3f5fd10bc4"
     end
 
     on_intel do
-      url "https://github.com/StarkDroid/Bento-Terminal/releases/download/v0.7.0/bento_linux_amd64"
-      sha256 "c88a5e9db4791965bbde6269f2c7081817ca014e1c1ee15560652a381fdd9f55"
+      url "https://github.com/StarkDroid/Bento-Terminal/releases/download/v0.8.0/bento_linux_amd64"
+      sha256 "679c8019726b3a031e12e2b3ef5f144ebbf1c1bece154dbb97804fa2ea84a7d5"
     end
   end
 
